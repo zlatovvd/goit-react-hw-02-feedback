@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-
 import FeedbackOptions from './FeedbackOptions';
 import Section from './Section';
 import Statistics from './Statistics';
