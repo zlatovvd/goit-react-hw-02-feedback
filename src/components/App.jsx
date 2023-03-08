@@ -22,6 +22,8 @@ class App extends Component {
       case 'Bad':
         this.setState(prevState => ({ bad: prevState.bad + 1 }));
         break;
+      default:
+        
     }
   };
 
